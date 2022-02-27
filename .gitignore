@@ -1,0 +1,5 @@
+# Makepkg products
+pkg/
+src/
+sirula-next-gen/
+*.pkg.tar.zst

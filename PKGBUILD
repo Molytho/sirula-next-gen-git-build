@@ -2,7 +2,7 @@
 
 pkgname=sirula-next-gen-git
 _pkgname=sirula-next-gen
-pkgver=r19.d6293c6
+pkgver=r21.0c9bf59
 pkgrel=1
 pkgdesc='An app launcher for wayland'
 url='https://github.com/Molytho/sirula-next-gen'
